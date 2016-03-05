@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./worksofvirgilinl01virg_0476.png"; bbox 0 0 1733 3076; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 291 169 1228 318">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 291 169 1228 318">
+     <span class='ocr_line' id='line_1_1' title="bbox 507 169 1228 218; baseline 0.011 -16"><span class='ocrx_word' id='word_1_1' title='bbox 507 169 718 214; x_wconf 79' lang='lat' dir='ltr'><strong>university</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 729 171 770 205; x_wconf 76' lang='lat' dir='ltr'><strong>of</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 784 171 987 208; x_wconf 74' lang='lat' dir='ltr'><strong>California</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1225 214 1228 218; x_wconf 54' lang='grc'><em>,</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 291 216 1201 259; baseline 0.01 -8"><span class='ocrx_word' id='word_1_5' title='bbox 291 216 537 252; x_wconf 73' lang='grc' dir='ltr'>ΞΟυΤΗΕΗΝ</span> <span class='ocrx_word' id='word_1_6' title='bbox 554 218 785 254; x_wconf 75' lang='grc' dir='ltr'>ΗΕΘΙΟΝΑΙ.</span> <span class='ocrx_word' id='word_1_7' title='bbox 801 221 994 257; x_wconf 75' lang='grc' dir='ltr'>ιΙΒΒΑΒΥ</span> <span class='ocrx_word' id='word_1_8' title='bbox 1009 223 1201 259; x_wconf 71' lang='grc' dir='ltr'>ΡΑΟΙιΙΤΥ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 398 267 1095 318; baseline 0.011 -18"><span class='ocrx_word' id='word_1_9' title='bbox 398 267 537 301; x_wconf 77' lang='lat' dir='ltr'><strong>Return</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 551 268 629 303; x_wconf 80' lang='lat' dir='ltr'><strong>this</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 645 270 811 305; x_wconf 76' lang='lat' dir='ltr'>materia!</span> <span class='ocrx_word' id='word_1_12' title='bbox 825 273 866 306; x_wconf 84' lang='lat' dir='ltr'><strong>to</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 879 272 945 307; x_wconf 82' lang='lat' dir='ltr'><strong>the</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 961 273 1095 318; x_wconf 76' lang='lat' dir='ltr'><strong>library</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 452 317 1051 357">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 452 317 1051 357">
+     <span class='ocr_line' id='line_1_4' title="bbox 452 317 1051 357; baseline 0.013 -7"><span class='ocrx_word' id='word_1_15' title='bbox 452 317 549 352; x_wconf 80' lang='lat' dir='ltr'>from</span> <span class='ocrx_word' id='word_1_16' title='bbox 564 319 687 353; x_wconf 82' lang='lat' dir='ltr'>which</span> <span class='ocrx_word' id='word_1_17' title='bbox 704 320 728 354; x_wconf 80' lang='lat' dir='ltr'><strong>it</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 741 328 824 355; x_wconf 84' lang='lat' dir='ltr'><strong>was</strong></span> <span class='ocrx_word' id='word_1_19' title='bbox 839 321 1051 357; x_wconf 78' lang='lat' dir='ltr'>horrowed-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1732 3076">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1732 3076">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1732 3076; baseline 0 0"><span class='ocrx_word' id='word_1_20' title='bbox 0 0 1732 3076; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

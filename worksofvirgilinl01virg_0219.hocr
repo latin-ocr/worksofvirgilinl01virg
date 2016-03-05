@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./worksofvirgilinl01virg_0219.png"; bbox 0 0 1733 3076; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 38 667 1381 1069">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 38 667 1381 1069">
+     <span class='ocr_line' id='line_1_1' title="bbox 232 667 1194 792; baseline 0.008 -34"><span class='ocrx_word' id='word_1_1' title='bbox 232 670 334 758; x_wconf 91' lang='lat' dir='ltr'><em>P.</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 432 667 753 792; x_wconf 75' lang='lat' dir='ltr'><em>Virgilii</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 823 673 1194 768; x_wconf 79' lang='lat' dir='ltr'><em>Maronis</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 38 926 1381 1069; baseline 0.007 -41"><span class='ocrx_word' id='word_1_4' title='bbox 38 926 140 1028; x_wconf 88' lang='lat' dir='ltr'>G</span> <span class='ocrx_word' id='word_1_5' title='bbox 214 930 305 1029; x_wconf 84' lang='lat' dir='ltr'>E</span> <span class='ocrx_word' id='word_1_6' title='bbox 396 930 493 1030; x_wconf 89' lang='lat' dir='ltr'>O</span> <span class='ocrx_word' id='word_1_7' title='bbox 570 932 669 1069; x_wconf 78' lang='lat' dir='ltr'>R</span> <span class='ocrx_word' id='word_1_8' title='bbox 743 930 845 1031; x_wconf 89' lang='lat' dir='ltr'>G</span> <span class='ocrx_word' id='word_1_9' title='bbox 939 931 988 1030; x_wconf 92' lang='lat'>1</span> <span class='ocrx_word' id='word_1_10' title='bbox 1067 932 1161 1037; x_wconf 83' lang='lat' dir='ltr'>c</span> <span class='ocrx_word' id='word_1_11' title='bbox 1241 932 1381 1037; x_wconf 88' lang='lat' dir='ltr'><em>A.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 134 1593 1271 1689">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 134 1593 1271 1689">
+     <span class='ocr_line' id='line_1_3' title="bbox 134 1593 1271 1689; baseline 0.005 -8"><span class='ocrx_word' id='word_1_12' title='bbox 134 1593 1271 1689; x_wconf 89' lang='lat' dir='ltr'>GEORGICS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 23 2059 1370 2171">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 23 2059 1370 2171">
+     <span class='ocr_line' id='line_1_4' title="bbox 23 2059 1370 2171; baseline 0.004 -5"><span class='ocrx_word' id='word_1_13' title='bbox 23 2059 1370 2171; x_wconf 86' lang='lat' dir='ltr'><em>VIRGIL.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
